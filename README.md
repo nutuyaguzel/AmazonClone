@@ -99,4 +99,4 @@ Contributions are welcome! Feel free to open an issue or submit a pull request. 
 ## License / Lisans
 This project is licensed under the MIT License. / Bu proje MIT Lisansı altında lisanslanmıştır.
 
-![AmazonClone GIF](./amazon.gif)
+![AmazonClone GIF](amazon.gif)
